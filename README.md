@@ -44,8 +44,9 @@ Part-time Software Developer at **Baltic Online Computer GmbH**, building backen
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=coderfeye13&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfeye13&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-five-brown-19.vercel.app/api?username=coderfeye13&theme=dark&hide_border=true&include_all_commits=true)
+
+![](https://github-readme-stats-five-brown-19.vercel.app/api/top-langs/?username=coderfeye13&theme=dark&hide_border=true&layout=compact)
 
 ---
 
