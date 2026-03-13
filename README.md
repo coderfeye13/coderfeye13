@@ -29,16 +29,28 @@ Part-time Software Developer at **Baltic Online Computer GmbH**, building backen
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+---
+
+## 🚀 Currently Learning
+
+This semester at HAW Kiel I’m focusing on:
+
+- **Pattern Recognition & Machine Learning**
+- **Advanced Cloud Computing**
+- **Distributed Data Systems**
+- **Backend development with Go**
+
+Alongside my coursework, I continue building small backend tools and experimenting with machine learning models.
 
 ## 📌 Featured Projects
 
-> 🚧 *Building in public — more projects dropping soon.*
-
 | Project | Description | Stack |
 |---|---|---|
-| [go-fundamentals](https://github.com/coderfeye13/go-fundamentals) | Hands-on Go exercises and patterns | Go |
-| *coming soon* | ML project from M.Sc. coursework | Python |
-| *coming soon* | Go CLI or backend service | Go |
+| [public-toilet-finder](https://github.com/coderfeye13/public-toilet-finder) | Web mapping application for locating public toilets in Kiel using OpenLayers and GeoServer | Vue, OpenLayers, GeoServer |
+| [multi-csv-etl-pipeline](https://github.com/coderfeye13/multi-csv-etl-pipeline) | Python ETL pipeline that standardizes and merges heterogeneous CSV datasets into a unified SQLite database | Python, Pandas, SQLAlchemy |
+| [user-event-data-analysis](https://github.com/coderfeye13/user-event-data-analysis) | Exploratory data analysis on user and event interaction data | Python, Pandas, SQLite |
+| [IPR-Final-NBA](https://github.com/coderfeye13/IPR-Final-NBA) | Machine learning project predicting NBA match outcomes using statistical features | Python, Scikit-learn |
+| [go-fundamentals](https://github.com/coderfeye13/go-fundamentals) | Hands-on Go exercises exploring idiomatic Go patterns and backend concepts | Go |
 
 ---
 
