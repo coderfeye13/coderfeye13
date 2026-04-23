@@ -1,82 +1,69 @@
 # Hey, I'm Furkan 👋
 
-M.Sc. Computer Science student at **HAW Kiel University of Applied Sciences** with a focus on **AI, machine learning, and backend systems**.  
-Currently working as a **Software Developer at Baltic Online Computer GmbH**, building **Go backend services and OpenAPI-driven REST APIs**.
-
-![](https://komarev.com/ghpvc/?username=coderfeye13&label=Profile%20views&color=0e75b6&style=flat)
+M.Sc. Computer Science student at **HAW Kiel University of Applied Sciences** with a focus on AI, machine learning, and backend systems.
+Based in Kiel, Germany 🇩🇪
 
 ---
 
-# 🚀 What I'm building
+## 🚀 What I'm working on
 
-- **Go backend services** — REST APIs, CLI tools, clean architecture patterns  
-- **Machine learning projects** — coursework and experiments in AI/ML  
-- **OpenAPI-driven development** — contract-first API development at work  
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- **Go backend services** — REST APIs, clean architecture, OpenAPI-driven development
+- **Cloud-native systems** — Kubernetes, GKE, Docker, CI/CD pipelines
+- **Machine learning & data projects** — coursework and experiments in AI/ML
 
 ---
 
-## Frameworks & Tools
+## 📚 Currently studying
 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+This semester at HAW Kiel I'm focusing on:
 
----
+- **Advanced Cloud Computing** — Kubernetes, GKE, containerization, CI/CD
+- **Distributed Database and Information Systems** — PostgreSQL, distributed architectures
+- **Deep Learning** — neural networks and modern DL frameworks
 
-# 🚀 Currently Learning
-
-This semester at **HAW Kiel** I’m focusing on:
-
-- **Pattern Recognition & Machine Learning**
-- **Advanced Cloud Computing**
-- **Distributed Data Systems**
-- **Backend development with Go**
-
-Alongside my coursework, I continue building backend tools and experimenting with machine learning models.
+Alongside coursework, I'm taking the *"From LLMs to AI Agents"* course on opencampus.sh and continuing to build backend tools in Go and Python.
 
 ---
 
-# 📌 Featured Projects
+## 💻 Tech Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Backend:** Echo (Go) · GORM · FastAPI · Node.js · REST APIs · OpenAPI 3.0
+
+**Data:** Pandas · NumPy · Scikit-learn · MongoDB
+
+**Cloud & DevOps:** GKE · GitLab CI/CD · GitHub Actions
+
+**Frontend & GIS:** Vue.js · OpenLayers · GeoServer
+
+---
+
+## 📌 Featured Projects
 
 | Project | Description | Stack |
-|---|---|---|
-| [public-toilet-finder](https://github.com/coderfeye13/public-toilet-finder) | Web mapping application for locating public toilets in Kiel using OpenLayers and GeoServer | Vue, OpenLayers, GeoServer |
-| [multi-csv-etl-pipeline](https://github.com/coderfeye13/multi-csv-etl-pipeline) | Python ETL pipeline that standardizes and merges heterogeneous CSV datasets into a unified SQLite database | Python, Pandas, SQLAlchemy |
-| [user-event-data-analysis](https://github.com/coderfeye13/user-event-data-analysis) | Exploratory data analysis on user and event interaction data | Python, Pandas, SQLite |
-| [IPR-Final-NBA](https://github.com/coderfeye13/IPR-Final-NBA) | Machine learning project predicting NBA game outcomes | Python, Scikit-learn |
-| [go-fundamentals](https://github.com/coderfeye13/go-fundamentals) | Hands-on Go exercises exploring idiomatic Go patterns and backend concepts | Go |
+|---------|-------------|-------|
+| **[Library-Archive](https://github.com/coderfeye13/Library-Archive)** | Contract-first RESTful API built during my Working Student role — OpenAPI spec → generated Go models | Go, Echo, GORM, OpenAPI 3.0 |
+| **[public-toilet-finder](https://github.com/coderfeye13/public-toilet-finder)** | Web mapping app for locating public toilets in Kiel, with custom GeoServer setup | Vue, OpenLayers, GeoServer |
+| **[multi-csv-etl-pipeline](https://github.com/coderfeye13/multi-csv-etl-pipeline)** | Python ETL pipeline standardizing and merging heterogeneous CSV datasets into SQLite | Python, Pandas, SQLAlchemy |
+| **[user-event-data-analysis](https://github.com/coderfeye13/user-event-data-analysis)** | Exploratory data analysis on user and event interaction data | Python, Pandas, SQLite |
+| **[go-fundamentals](https://github.com/coderfeye13/go-fundamentals)** | Personal Go practice repo — idiomatic patterns, interfaces, concurrency | Go |
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats-five-brown-19.vercel.app/api?username=coderfeye13&theme=dark&hide_border=true&include_all_commits=true)
+![Furkan's GitHub stats](https://github-readme-stats-five-brown-19.vercel.app/api?username=coderfeye13&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![](https://github-readme-stats-five-brown-19.vercel.app/api/top-langs/?username=coderfeye13&theme=dark&hide_border=true&layout=compact&hide=html,jupyter%20notebook)
-
-![](https://streak-stats.demolab.com/?user=coderfeye13&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-five-brown-19.vercel.app/api/top-langs/?username=coderfeye13&theme=dark&hide_border=false&layout=compact&hide=html,css,jupyter%20notebook&langs_count=6)
 
 ---
 
-# 📈 Activity
+## 🌐 Find me
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=coderfeye13&theme=github-dark&hide_border=true)
-
----
-
-# 🌐 Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-yilmaz13/)
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kisacafeye)
+[LinkedIn](https://www.linkedin.com/in/furkan-yilmaz13/) · [Medium](https://medium.com/@kisacafeye)
