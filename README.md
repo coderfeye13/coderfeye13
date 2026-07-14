@@ -45,9 +45,10 @@ Alongside coursework, I'm taking the *"From LLMs to AI Agents"* course on openca
 ---
 
 ## 📌 Featured Projects
-
 | Project | Description | Stack |
 |---------|-------------|-------|
+| **[jobtracker](https://github.com/coderfeye13/jobtracker)** | Self-hosted, AI-assisted job application tracker I use daily for my own Werkstudent search — AI job parsing, CV fit scoring, cover letter & CV tailoring with an audit log, read-only Gmail inbox classification. One principle throughout: the AI suggests, the human confirms | Go, Echo, OpenAPI 3.0, SQLite, React, Gemini, Gmail API |
+| **[book-recommendation-chatbot](https://github.com/coderfeye13/book-recommendation-chatbot)** | RAG chatbot built from scratch (no LangChain) — FAISS retrieval with a similarity threshold against hallucination; [live demo](https://coderfeye13-book-recommendation-chatbot.streamlit.app) | Python, LLaMA 3.1 (Groq), FAISS, Streamlit |
 | **[Library-Archive](https://github.com/coderfeye13/Library-Archive)** | Contract-first RESTful API built during my Working Student role — OpenAPI spec → generated Go models | Go, Echo, GORM, OpenAPI 3.0 |
 | **[public-toilet-finder](https://github.com/coderfeye13/public-toilet-finder)** | Web mapping app for locating public toilets in Kiel, with custom GeoServer setup | Vue, OpenLayers, GeoServer |
 | **[multi-csv-etl-pipeline](https://github.com/coderfeye13/multi-csv-etl-pipeline)** | Python ETL pipeline standardizing and merging heterogeneous CSV datasets into SQLite | Python, Pandas, SQLAlchemy |
